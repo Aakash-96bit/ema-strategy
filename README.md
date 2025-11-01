@@ -5,6 +5,7 @@ It uses 5-year data of Infosys (INFY.NS) from Yahoo Finance and evaluates perfor
 
 
 ## ⚠️ Disclaimer
+This project was developed as part of my learning journey in quantitative trading and algorithmic research. Some portions of the code were assisted by AI tools (e.g., for syntax, debugging, and documentation), but all logic, structure, and validation were personally reviewed and tested.
 This project is for educational and research purposes only.  
 The results shown are based on historical simulations and do not represent real trading outcomes.  
 Nothing here should be interpreted as investment advice or financial guidance.
